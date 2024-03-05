@@ -74,7 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           box-shadow: 2px 3px 5px black;
           border-radius: 25px ;
           padding: 15px;
-          max-width: 500px; /* Changed width to max-width for responsiveness */
+          max-width: 500px;
           margin:0 auto;
           }
   </style>
